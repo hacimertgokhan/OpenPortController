@@ -1,0 +1,26 @@
+# ninja log v6
+5	353	7504682860144445	CMakeFiles/OpenPortController.dir/main.cpp.obj	2706c17abe375a43
+353	434	7504682863620422	OpenPortController.exe	805c1826a8af7f9b
+3	325	7504683889632155	build.ninja	1e9b79c155f9193d
+5	1279	7504682638133392	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+2	1273	7504683966051393	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+1278	1343	7504683978812258	OpenPortController.exe	5c01aa7cb94cbf92
+5	380	7504687093122511	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+381	451	7504687096879322	OpenPortController.exe	5c01aa7cb94cbf92
+3	350	7504689989492049	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+351	426	7504689992959731	OpenPortController.exe	5c01aa7cb94cbf92
+4	365	7504690344421106	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+366	448	7504690348037704	OpenPortController.exe	5c01aa7cb94cbf92
+4	381	7504690563362035	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+382	457	7504690567135923	OpenPortController.exe	5c01aa7cb94cbf92
+4	382	7504691616961976	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+383	457	7504691620744900	OpenPortController.exe	5c01aa7cb94cbf92
+4	367	7504691666398119	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+368	449	7504691670036283	OpenPortController.exe	5c01aa7cb94cbf92
+3	374	7504692938743120	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+375	456	7504692942444401	OpenPortController.exe	5c01aa7cb94cbf92
+4	353	7504694240732788	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+353	428	7504694244227217	OpenPortController.exe	5c01aa7cb94cbf92
+4	443	7504699822959669	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+4	430	7504699919245775	CMakeFiles/OpenPortController.dir/protocols.cpp.obj	877834ff8c069935
+431	505	7504699923518549	OpenPortController.exe	5c01aa7cb94cbf92

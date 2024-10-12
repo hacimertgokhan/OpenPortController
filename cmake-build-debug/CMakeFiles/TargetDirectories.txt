@@ -1,0 +1,3 @@
+C:/Users/Hacı Mert Gökhan/CLionProjects/OpenPortController/cmake-build-debug/CMakeFiles/OpenPortController.dir
+C:/Users/Hacı Mert Gökhan/CLionProjects/OpenPortController/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hacı Mert Gökhan/CLionProjects/OpenPortController/cmake-build-debug/CMakeFiles/rebuild_cache.dir
